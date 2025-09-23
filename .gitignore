@@ -1,0 +1,34 @@
+# Rust build artifacts
+/target
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Testing artifacts
+coverage/
+test-results/
+
+# Local configuration files
+config.local.toml
+*.local.json
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
