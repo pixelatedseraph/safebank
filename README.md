@@ -2,7 +2,7 @@
 
 A lightweight, secure digital banking framework optimized for rural environments with low-end smartphones and limited internet connectivity.
 
-## 🎯 Project Overview
+##  Project Overview
 
 SafeBank addresses the unique security challenges faced by rural digital banking by providing:
 
@@ -180,22 +180,3 @@ Key configurable parameters:
 3. Add tests for new functionality
 4. Ensure all tests pass with `cargo test`
 5. Submit a pull request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-For emergency banking support in rural areas:
-- **English**: For emergency help, call 911 or visit your nearest police station
-- **Swahili**: Kwa msaada wa haraka, piga simu 911 au tembelea kituo cha polisi karibu nawe
-- **French**: Pour une aide d'urgence, appelez le 911 ou rendez-vous au poste de police le plus proche
-
-## 📞 Contact
-
-For technical support or questions about SafeBank, please open an issue on GitHub or contact the development team.
-
----
-
-*SafeBank: Empowering secure digital banking in rural communities worldwide* 🌾🏦
